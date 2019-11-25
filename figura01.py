@@ -28,7 +28,7 @@ def proba2():
 
 def main(args):
     turtle.setup(800, 600)
-    turtle.color("red")
+    turtle.color("blue")
     turtle.pensize(3)
     
     for i in range(4):
